@@ -1,0 +1,36 @@
+.infor
+{
+    width: 100%;
+    height: 70vh;
+    background-image: url("../img/estrellas.jpg");
+    background-size: cover;
+    background-position:top;
+}
+.infor_contenedor
+{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.infor_img
+{
+    width: 40%;
+}
+.infor_img img
+{
+    width: 100%;
+    border-radius: 50px;
+    border: solid 2px white;
+}
+.infor_texto
+{
+    width: 50%;
+    color: white;
+    margin: 5em;
+}
+.infor_texto h1
+{
+    text-align: center;
+}

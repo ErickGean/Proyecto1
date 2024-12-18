@@ -1,0 +1,75 @@
+.presentacion
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url("../img/presentacion.jpg");
+    background-position: center;
+}
+.opaco
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.862);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.secciones
+{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: normal;
+}
+.secciones_img
+{
+    width: 40%;
+    height: 100%;
+    background-image: url("../img/perfil.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 500px;
+}
+.comentarios
+{
+    width: 70%;
+    height: 50%;
+    display: grid;
+    grid-template-areas: "titulo titulo" "comentario1 comentario2";
+}
+.titulos
+{
+    grid-area: titulo;
+    text-align: center;
+    color: #ffffff
+}
+.titulos h3
+{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 0;
+}
+.titulos span
+{
+    font-style: italic;
+    font-size: 15px;
+}
+.comentario1
+{
+    grid-area: comentario1;
+}
+.comentario2
+{
+    grid-area: comentario2;
+}
+.com
+{
+    color: #ffffff;
+    text-align: center;
+}
+.com h6
+{
+    font-size: 15px;
+}

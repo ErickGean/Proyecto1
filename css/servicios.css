@@ -1,0 +1,34 @@
+.servicios1
+{
+    width: 100%;
+    height: 60vh;
+    background-image: url("../img/servicios.jpg");
+    background-position: center;
+}
+.servicios1_cont
+{
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+.servicios1_cont h3
+{
+    font-size: 50px;
+}
+.whatsapp legend
+{
+    margin: 1em;
+    display: block;
+}
+.wp_ico img
+{
+    transition: transform 300ms;
+}
+.wp_ico img:hover
+{
+    transform: scale(1.5);
+}

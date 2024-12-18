@@ -1,0 +1,42 @@
+.comentario
+{
+    width: 100%;
+    height: 50vh;
+    background-color: #000000;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center
+{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    justify-content: space-around;
+}
+.card
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    margin: 1em;
+}
+.bandera
+{
+    width: 25%;
+}
+.card legend
+{
+    margin-top: 5%;
+    font-size: 25px;
+}
+.card h6
+{
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px;
+}

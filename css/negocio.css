@@ -1,0 +1,34 @@
+.negocio
+{
+    width: 100%;
+    height: 70vh;
+    background-image: url("../img/presentacion.jpg");
+    background-position: center;
+}
+.negocio_contenedor
+{
+    width: 90%;
+    height: 80%;
+    text-align: center;
+    color: #ffffff;
+    align-items: center;
+}
+.negocio_contenedor h2
+{
+    font-size: 5vw;
+}
+.negocio_contenedor p
+{
+    font-size: 25px;
+    line-height: 1;
+}
+.medios_pago
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.medios_pago img
+{
+    width: 10%;
+}

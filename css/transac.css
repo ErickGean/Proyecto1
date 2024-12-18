@@ -1,0 +1,16 @@
+.transac
+{
+    background-image: url("../img/transac_fondo.jpg");
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+    background-position:center;
+}
+.transac_contenedor
+{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
