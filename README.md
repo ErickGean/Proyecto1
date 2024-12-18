@@ -1,1 +1,1 @@
-# Proyecto1
+Estoy trabajando aun en este proyecto me falta mejorar muchas cosas, recien ando aprendiendo y estoy usando plantillas para aprender. Gracias a Saiperex por la plantilla para poder editarla y aprender de ella.# Proyecto1
